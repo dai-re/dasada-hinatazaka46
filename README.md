@@ -1,3 +1,24 @@
+Inspiration by Hinatazaka46 drama (Dasada)
+
+![](./public/dasada.jpg)
+
+
+### Todo
+- [x] Home page
+- [x] News page
+- [x] Staff page
+- [ ] shop page
+- [ ] Look page
+
+
+`demo` https://dasada-hinatazaka46.vercel.app/
+
+`image demo`
+
+![](./public/Dasada.png)
+![](./public/Dasada-News.png)
+![](./public/Dasada-Staff-.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
